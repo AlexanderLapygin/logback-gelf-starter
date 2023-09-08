@@ -4,9 +4,10 @@
     </a>
 </div> 
 
-# Logback starter
+# Logback GELF starter
 
 ## Feature tags
+- gelf
 - java
 - logback
 - maven
@@ -16,7 +17,7 @@
 ---
 
 ## Direct ancestors
-[- logback](https://github.com/AlexanderLapygin/java-helloworld/tree/main#readme)
+[- gelf](https://github.com/AlexanderLapygin/logback-starter/tree/main#readme)
 
 ---
 
