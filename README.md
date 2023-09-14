@@ -19,6 +19,9 @@
 ## Direct ancestors
 [- gelf](https://github.com/AlexanderLapygin/logback-starter/tree/main#readme)
 
+## Direct descendants
+[+ war](https://github.com/AlexanderLapygin/logback-gelf-war-starter/tree/main#readme)
+
 ---
 
 ## Author
